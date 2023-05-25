@@ -1,5 +1,5 @@
 {
-  "name": "no-bad-words",
+  "name": "filter-bad-words",
   "version": "1.0.0",
   "description": "Allows you to easily check the text for bad words",
   "main": "index.js",
