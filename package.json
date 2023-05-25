@@ -1,0 +1,27 @@
+{
+  "name": "no-bad-words",
+  "version": "1.0.0",
+  "description": "Allows you to easily check the text for bad words",
+  "main": "index.js",
+  "repository": "https://github.com/ContentJeka/no-bad-words.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mat",
+    "bad",
+    "words",
+    "words",
+    "bad",
+    "finder",
+    "checkter",
+    "spellcheck",
+    "russian",
+    "english"
+  ],
+  "author": "ContentJeka",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^6.3.0"
+  }
+}
