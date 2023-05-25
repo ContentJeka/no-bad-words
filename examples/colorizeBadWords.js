@@ -18,5 +18,5 @@ for(let i = 0; i < vulgarity.length; i++) {
     }
 }
 
-//                            =>       | yellow | |   red  | | yellow  |
-console.log(res.join(" ")) // => Пошёл |  нахуй | |выблядок| | ебанный |
+//                            =>     | yellow | |  red  |
+console.log(res.join(" ")) // => Иди | нахуй  | | пидор |

@@ -1,6 +1,6 @@
 {
   "name": "filter-bad-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows you to easily check the text for bad words",
   "main": "index.js",
   "repository": "https://github.com/ContentJeka/no-bad-words.git",
