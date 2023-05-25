@@ -2,7 +2,7 @@ let NoBadWords = require("../index.js");
 
 //         "Fuck you, motherfucker!      ";
 let text = "Иди нахуй, пидор!"; // Text with bad words
-let vulgarity = new NoBadWords(text, [ "russian" ], 1).getVulgarity(); // Filtered text without bad words
+let vulgarity = new NoBadWords(text, [ "russian" ], 1, false).getVulgarity(); // Filtered text without bad words
 
 let words = text.split(/\s+/)
 let res = [];
